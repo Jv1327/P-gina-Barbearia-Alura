@@ -1,16 +1,16 @@
-# Nome do meu projeto
+# Página da Barbearia
 
-Rápida descrição do objetivo de fazer esse projeto
+Criando Página de Barbearia ultilizando HTML e CSS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Barbearia Alura**
+| :label: Tecnologias | html, css(tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcursos.alura.com.br%2Fforum%2Ftopico-desafio-cabecalho-pagina-home-barbearia-alura-202562&psig=AOvVaw3mwBBHc5wjZW_wk2acmSJn&ust=1671129092049000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjc0ZLf-fsCFQAAAAAdAAAAABAE#vitrinedev)
 
 ## Detalhes do projeto
 
